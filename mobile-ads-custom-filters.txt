@@ -1,0 +1,56 @@
+###banner-1188
+###cookie-law-info-bar
+###paywall-wrapper
+###salesforce-cshelp
+###width-1188
+||economist.com###offer*
+||economist.com^$script,third-party
+||forbes.com/workbox/sw.js
+||forbes.com^$script,third-party
+||fortune.com^$script
+||inews.co.uk^$script,third-party
+||latimes.com^$script,third-party
+||nrtoday.com^$script,third-party
+||nymag.com^$script
+||papermag.com^$script
+||px-cloud.net^$script
+||tinypass.com^$domain=forbes.com
+||washingtonpost.com^$script,third-party
+bitdegree.org###undefined
+bloomberg.com##div.parallax-overlay-content
+clp.com.hk###app > * > div.sc-launcher-container
+cnbc.com###GlobalNavigation
+cnbc.com###GlobalNavigation > div.BreakingNews-container
+cnbc.com###GlobalNavigation > div.BreakingNews-container.BreakingNews-intro:first-child
+cnbc.com##span.BreakingNews-marquee
+codeguage.com##.side-adv
+codeguage.com###news
+collinsdictionary.com##div.padding-pub:nth-child(4)
+collinsdictionary.com##div.padding-pub:nth-child(4) > div.menuDd:last-child
+creativebloq.com###google_ads_iframe_\/10518929\/Design_CreativeBloQ\/feature\/article\/anchored_0
+creativebloq.com###google_ads_iframe_\/10518929\/Design_CreativeBloQ\/feature\/article\/top-leaderboard_0
+davidwalsh.name###main > article:nth-child(3) > div.x.x-long.x-secondary:nth-child(5)
+davidwalsh.name###main > article:nth-child(3) > div.x.x-long.x-secondary:nth-child(5) > div.x-secondary-small:last-child > a > img
+developer.apple.com###watermark > div.legacybox
+economist.com###__next
+economist.com###offer_c24d2cce79857bbae146-0
+freeformatter.com##div.container-fluid:nth-child(2) > div.sidebar:first-child
+freeformatter.com##div.container-fluid##
+gaydemon.com##.live-link
+hanselman.com##div.cc-window.cc-floating.cc-type-info.cc-theme-block.cc-bottom.cc-color-override-599147086:first-child
+hktvmall.com##.CrazyAd
+hktvmall.com##.promo-cats
+hktvmall.com###div.bannerTop
+hktvmall.com###mainWrapper > div.bannerToApp:last-child > a > img
+hktvmall.com###mainWrapper > div.reAddButton*
+hktvmall.com###width-1188
+rithmschool.com###banner-alert
+syncfusion.com###sub-menu-section
+theguardian.com##aside
+thehackernews.com###articlebody > div.ad_two.clear:nth-child(*)
+thehackernews.com###articlebody > div.ad_two.clear:nth-child(6)
+thesaurus.com###tcom_serp_mweb_atf_300x250_2
+time.com##.WidgetWrapper
+unite-db.com###nn_lb1
+vice.com###div.adph.adph
+wpbeaches.com###div.fl-module-content.fl-node-content
