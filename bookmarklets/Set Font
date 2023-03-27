@@ -1,0 +1,1 @@
+javascript:document.querySelectorAll(%22*%22).forEach(element=%3Eelement.style.fontFamily=%22system-ui%22);
