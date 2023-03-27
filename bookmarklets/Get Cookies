@@ -1,1 +1,2 @@
-javascript:alert(document.cookie.replace(%22;%20%22,%22%5Cn%22));
+let splitCookies = document.cookie.replace("; ", "\n");
+window.alert(splitCookies);
